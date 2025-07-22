@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dilara Yılmaz</h1>
+<h1 align="center">Hi, I'm Dilara</h1>
 <h3 align="center">Computer Engineering Student</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dilarayyilmaz" alt="dilarayyilmaz" /></a> </p>
