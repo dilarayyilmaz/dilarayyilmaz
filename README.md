@@ -67,7 +67,4 @@ I enjoy learning new technologies, solving problems and building projects that t
   </a>
 </p>
 
----
 
-ingful. ✨</i>
-</p>
